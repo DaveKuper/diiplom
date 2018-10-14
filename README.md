@@ -1,0 +1,2 @@
+# diiplom
+Diplom for education
